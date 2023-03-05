@@ -20,8 +20,10 @@ Since we can only read 8-bits at a time our instructions has to be broken down i
 00000010  
 00010011  
 in the instruction file
+
 ## Block Diagram
-![Block Diagram](https://github.com/geekboi777/5_Stage_Pipeline_RISCV_Processor/blob/main/images/pic/block_diagram.png
+
+![Block Diagram](https://github.com/geekboi777/5_Stage_Pipeline_RISCV_Processor/blob/main/images/pic/block_diagram.png)
 
 ## Supported Instructions
 
